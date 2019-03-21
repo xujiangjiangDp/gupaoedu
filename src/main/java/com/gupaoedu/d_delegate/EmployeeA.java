@@ -1,4 +1,4 @@
-package com.gupaoedu.c_delegate;
+package com.gupaoedu.d_delegate;
 
 public class EmployeeA implements  Employee {
     @Override
